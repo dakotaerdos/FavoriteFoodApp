@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FavoriteFoodApp</string>
+    <string name="restaurant_name">Texas Roadhouse</string>
+    <string name="menu">View our Menu</string>
+    <string name="phone">Give us a Call</string>
+    <string name="map">Find a Location</string>
+    <string name="favorites">View Favorites</string>
+</resources>
